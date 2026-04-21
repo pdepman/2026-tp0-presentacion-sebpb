@@ -1,7 +1,5 @@
 # 2026-tp0-presentacion-sebpb
----
 Legajo: 203.948-5
----
 
 # Intro
 Buenas! Mi nombre es Sebastián Pérez, caí medio tarde a hacer el TP0 pero espero que esto no hable mal de mí! (Definitivamente habla mal de mí)
