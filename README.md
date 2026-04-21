@@ -3,7 +3,7 @@ Legajo: 203.948-5
 
 # Intro
 Buenas! Mi nombre es Sebastián Pérez, caí medio tarde a hacer el TP0 pero espero que esto no hable mal de mí! (Definitivamente habla mal de mí)
-[INSERTAR FOTO]
+<img width="1250" height="1666" alt="image" src="https://github.com/user-attachments/assets/b7d0405a-a5cb-492e-803a-51c26528b2fd" />
 
 # Breve descripción de mi persona
 ## Hobbies
